@@ -1,0 +1,5 @@
+streamlit
+audio_recorder_streamlit
+deep_translator
+gTTS
+SpeechRecognition
